@@ -1,0 +1,46 @@
+body {
+	
+}
+
+.header {
+	border: 5px solid;
+	background-color: #81D4FA;
+    padding: 20px;
+    margin: 30px;
+    text-align: center;
+    box-shadow: 10px 10px 5px gray;
+/*    border-radius: 50px;
+*/}
+
+.header .name {
+	font-size: 40px;
+	text-shadow: 10px 10px 5px gray;
+}
+
+.header .uni {
+	padding-top: 10px;
+}
+
+i {
+	color: white;
+	padding: 10px;
+	text-shadow: 10px 10px 5px gray;
+}
+
+.middle {
+	padding-top: 400px;
+	border: 5px solid;
+	background-color: #81D4FA;
+    margin: 30px;
+    text-align: center;
+    box-shadow: 10px 10px 5px gray;
+}
+
+.bottom {
+	border: 5px solid;
+	background-color: #81D4FA;
+    padding: 20px;
+    margin: 30px;
+    text-align: center;
+    box-shadow: 10px 10px 5px gray;
+}
